@@ -29,14 +29,6 @@
   },
   "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aritraroy24/Academic_Portfolio.git"
-  },
   "author": "Aritra Roy",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aritraroy24/Academic_Portfolio/issues"
-  },
-  "homepage": "https://github.com/aritraroy24/Academic_Portfolio#readme"
+  "license": "ISC"
 }
