@@ -1,138 +1,101 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Aritra Roy",
+    "occupation": "M.Sc. Chemistry Student @Pondicherry University",
+    "description": "\"Research is to see what everybody else has seen,\n and to think what nobody eles has thought\"",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Aritra, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "aritraroy24@gmail.com",
+    "phone": "+91 98512 57150",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "512, Pirtala, Poramatala Road",
+      "city": "Nabadwip, Nadia",
+      "state": "West Bengal, India",
+      "zip": "741302"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1rIzBs__QEToBsJx4-1ey_oQngn_RzzP5/view?usp=sharing",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
+
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/aritraroy24/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/sonnysangha",
-        "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm very much interested in theroatical research on various physical and chemcal prooperties of nano-particles formation.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "school": "University of Pondicherry",
+        "degree": "M.Sc. in Chemistry",
+        "graduated": "Ongoing",
+        "description": "Will be completed by 2021"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "school": "Ramakrishna Mission Centenary College, Rahara",
+        "degree": "B.Sc. in Chemistry",
+        "graduated": "May, 2019",
+        "description": "Completed with 7.34 CGPA"
+      },
+      {
+        "school": "Nabadwip Bakulatala High School(H.S.)",
+        "degree": "Higher Secondary Examination",
+        "graduated": "June, 2016",
+        "description": "Completed with 89.2% Marks"
+      },
+      {
+        "school": "Nabadwip Bakulatala High School(H.S.)",
+        "degree": "Secondary Examination",
+        "graduated": "May, 2014",
+        "description": "Completed with 90% Marks"
       }
     ],
+
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Inorganic Chemistry",
+        "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Organic Chemistry",
+        "level": "80%"
       },
       {
-        "name": "Git",
+        "name": "Physical Chemistry",
+        "level": "72%"
+      },
+      {
+        "name": "Analytical Chemistry",
         "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "C Nps Fluorescence Properties",
+        "category": "C Nps",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "#"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Ni Nps Using Surfactant",
+        "category": "Ni Nps",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "#"
       }
+
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.",
+        "user": "Stephen Hawking"
       }
     ]
   }
