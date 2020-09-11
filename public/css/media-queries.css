@@ -313,6 +313,9 @@
       width: 100%;
       margin-left: 0;
    }
+   .widget{
+      padding-left: 4.5vw;
+   }
 
 
    /* footer
@@ -362,6 +365,12 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+
+   /* contact
+   ------------------------------------------------------------------------ */
+   .widget{
+      padding-left: 8vw;
+   }
 
    /* footer
    ------------------------------------------------------------------------ */

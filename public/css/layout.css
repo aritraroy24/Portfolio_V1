@@ -1,9 +1,4 @@
 /*
-=====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
-=====================================================================
 
    TOC:
    a. General Styles
@@ -261,7 +256,7 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+.education, .work, .seminars {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -432,6 +427,8 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio-wrapper {
    display: flex;
+   justify-content: center;
+   align-items: center;
    flex-wrap: wrap;
 }
 
@@ -439,7 +436,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
-
+   border: 5px solid rgb(54, 53, 53);
    overflow: hidden;
    position: relative;
 
@@ -461,7 +458,6 @@ ul#nav li.current a { color: #F06000; }
    top: 0;
    width: 100%;
    height: 100%;
-
 	opacity: 0;
 	-moz-opacity: 0;
 	filter:alpha(opacity=0);
@@ -939,7 +935,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #5c5c5c;
    font-size: 14px;
    text-align: center;
    position: relative;

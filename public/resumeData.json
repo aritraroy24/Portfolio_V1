@@ -1,138 +1,155 @@
 {
   "main": {
     "name": "Aritra Roy",
-    "occupation": "M.Sc. Chemistry Student @Pondicherry University",
-    "description": "\"Research is to see what everybody else has seen,\n and to think what nobody eles has thought\"",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Aritra, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "occupation": "M.Sc. Chemistry Student",
+    "place": "Pondicherry University, India",
+    "description": "",
+    "image": "aritra.jpg",
+    "bio": "My name is Aritra. I'm studying M.Sc. Chemistry in Pondicherry University, one of the gretest Central University in India. I love studying reasearch articles and implementing those concepts in my work. Also, I love teaching, whether it is junior or fellow-student. My goal is to become a professor and to engage students in chemistry by relating as much as possible to everyday life through questioning and experiential way.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "aritraroy24@gmail.com",
-    "phone": "+91 98512 57150",
+    "email": "Email Id : aritraroy24@gmail.com",
+    "phone": "Phone No : +91 98512 57150",
+    "site": "Website : aritraroy24.netlify.app",
     "address": {
-      "street": "512, Pirtala, Poramatala Road",
+      "street": "512, Pirtala, Poramatala Road,",
       "city": "Nabadwip, Nadia",
       "state": "West Bengal, India",
-      "zip": "741302"
+      "zip": "Pin - 741302"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://drive.google.com/file/d/1NKCLkN-CKWPp0-buYJIRcy3jSUpFIgaG/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1NKCLkN-CKWPp0-buYJIRcy3jSUpFIgaG/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/aritraroy24/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "StackExchange Chemistry",
+        "url": "https://chemistry.stackexchange.com/users/98703/aritraroy24",
+        "className": "fa fa-stack-exchange"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Aritraroy24Roy",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/aritraroy24",
         "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aritraroy24/",
+        "className": "fa fa-facebook"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm very much interested in theroatical research on various physical and chemical aspects of material science chemistry.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Pondicherry University",
+        "degree": "M.Sc. in Chemistry",
+        "graduated": "Ongoing",
+        "description": "Will be completed by 2021"
+      },
+      {
+        "school": "Ramakrishna Mission Centenary College, Rahara",
+        "degree": "B.Sc. in Chemistry",
+        "graduated": "May, 2019",
+        "description": "Completed with 7.34 CGPA"
+      },
+      {
+        "school": "Nabadwip Bakulatala High School(H.S.)",
+        "degree": "Higher Secondary Examination",
+        "graduated": "June, 2016",
+        "description": "Completed with 89.2% Marks"
+      },
+      {
+        "school": "Nabadwip Bakulatala High School(H.S.)",
+        "degree": "Secondary Examination",
+        "graduated": "May, 2014",
+        "description": "Completed with 90% Marks"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
+        "company": "Computation Chemistry Field",
         "title": "Team Member && React Specialist",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description1": "Have some knowledge of Spartan, Gaussian, GaussView and Cacao Software of Computational Chemistry.",
+        "description2": "Studied about Basis Set, PES (Potential Energy Surface), Semi-emperical Method and DFT."
       },
       {
-        "company": "Lindar Media",
+        "company": "Computer Science Field",
         "title": "Software Engineer",
         "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "description1": "Completed Java Programming under WB Govt. (Regd. No. - S/IL/47623) with Grade: B (80%-90%) on 20/12/2019.",
+        "description2": "Completed C Programming under WB Govt. (Regd. No. - S/IL/47623) with Grade: B (80%-90%) on 20/12/2019.",
+        "description3": "Completed Basic Course on Computer under WB Govt. (Regd. No. - S/IL/47623) with Grade: A (90%-100%) on 20/12/2019.",
+        "description4": "Have the intermediate level knowledge of HTML, CSS and JavaScript programming language."
+      }
+    ],
+    "seminars": [
+      {
+        "date": "BGC, Belgharia - December, 2017",
+        "description": "Science Academy's Lecture Workshop on Modern Trends in Chemistry and Physics"
+      },
+      {
+        "date": "RKMVCC, Rahara - July, 2017",
+        "description": "Trends In Surface Science And Related Areas"
+      },
+      {
+        "date": "RKMVCC, Rahara - November, 2016",
+        "description": "International Seminar Under The Indo-Norwegian Cooperation Program"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Analytical Chemistry",
+        "level": "79%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Inorganic Chemistry",
+        "level": "87%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Organic Chemistry",
+        "level": "72%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Physical Chemistry",
+        "level": "82%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Ni nanowire formation",
+        "category": "Ni Nanowire formation using a non-ionic surfactant and Hydrazine",
+        "image": "Ni_nanowire.jpeg",
+        "url": "#"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Fluorescent C Nps synthesis",
+        "category": "Blue, Green, Red and Yellow fluorescent C Nps synthesis using carbohydrates",
+        "image": "C_Nps.png",
+        "url": "#"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I realized it was like a dating agency: the ions are the lost souls looking for mates; the electrolyte is the agency that can help them find each other.",
+        "user": "Victoria Finlay, Jewels: A Secret History"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.",
+        "user": "Stephen Hawking"
       }
     ]
   }
