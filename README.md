@@ -11,4 +11,4 @@
    * It is a fully responsive website.
    * The contact form works perfectly to get a mail in your inbox. I've taken the help of [Formspree](https://formspree.io/account/) site to validate and functionalize my form.
 #### Credit
-Modified the template provided by ```[Clever Programmer](https://www.youtube.com/c/CleverProgrammer/)``` :point_left:
+Modified the template provided by [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/) :point_left:
