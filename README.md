@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/react-used-fff7f8?colorA=61DAFB&colorB=0088cc&style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/react-used-fff7f8?colorA=fff&colorB=0088cc&style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/git-fff7f8?colorA=faf0f0&colorB=db4823&style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/github-fff7f8?colorA=080808&colorB=8a8a8a&style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge)
