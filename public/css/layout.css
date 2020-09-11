@@ -907,7 +907,9 @@ call-to-action .button {
    left: 18px;
    top: 17px;
 }
-
+#thankSubmit{
+   text-align: center;
+}
 
 /* Twitter Feed */
 #twitter {

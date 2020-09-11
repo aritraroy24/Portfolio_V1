@@ -36,7 +36,7 @@ export default class MyForm extends React.Component {
                            <label htmlFor="contactMessage">Message <span className="required">*</span></label>
                            <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                         </div>
-                        {status === "SUCCESS" ? <p>Thanks for contacting! I'll reach you soon.</p> : <button className="submit">Submit</button>}
+                        {status === "SUCCESS" ? <p id="thankSubmit">Thanks for contacting! I'll reach you soon.</p> : <button className="submit">Submit</button>}
                         {status === "ERROR" && <p>Ooops! There was an error.</p>}
                      </fieldset>
                   </form>
