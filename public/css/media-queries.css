@@ -54,6 +54,7 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
+
    /* Testimonials Section
    ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
@@ -228,6 +229,9 @@
    #resume h3, #resume .info { text-align: center; }
       
    .bars { width: 100%; }
+   #eduDescription{
+      text-align: center;
+   }
 
 
    /* Call To Action Section
@@ -266,6 +270,12 @@
       font-size: 20px;
       line-height: 42px;      
    }
+   #testimonials .header-col {
+      padding-top: 9px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
 
    /* Control Nav */
    .flex-control-nav {
