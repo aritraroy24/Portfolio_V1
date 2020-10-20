@@ -25,19 +25,19 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "StackExchange Chemistry",
-        "url": "https://chemistry.stackexchange.com/users/98703/aritraroy24",
-        "className": "fa fa-stack-exchange"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/Aritraroy24Roy",
-        "className": "fa fa-twitter"
+        "name": "medium",
+        "url": "https://medium.com/@aritraroycoc",
+        "className": "fa fa-medium"
       },
       {
         "name": "github",
         "url": "http://github.com/aritraroy24",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Aritraroy24Roy",
+        "className": "fa fa-twitter"
       },
       {
         "name": "facebook",
@@ -53,7 +53,7 @@
         "school": "Pondicherry University",
         "degree": "M.Sc. in Chemistry",
         "graduated": "Ongoing",
-        "description": "Will be completed by 2021"
+        "description": "Will be completed by 2021 (8.08 CGPA upto 2nd Semester)"
       },
       {
         "school": "Ramakrishna Mission Centenary College, Rahara",
@@ -141,11 +141,35 @@
       }
     ]
   },
+  "blog": {
+    "blogs": [
+      {
+        "title": "Spartan Software",
+        "category": "Basic Introduction to Computational Chemistry Tools: Spartan (Part-1)",
+        "image": "spartan_part1.png",
+        "url": "https://medium.com/chempute/basic-introduction-to-computational-chemistry-tools-spartan-part-1-f1ffdb5dabef"
+      },
+      {
+        "title": "PES and Saddle Point",
+        "category": "Introduction To Computational Chemistry Calculations: PES and Saddle Point",
+        "image": "PES_SaddlePoint.png",
+        "url": "https://medium.com/chempute/introduction-to-computational-chemistry-calculations-pes-and-saddle-point-22389fc362f0"
+      }
+    ]
+  },
   "testimonials": {
     "testimonials": [
       {
+        "text": "A keen guy, aware of the advancement in 'Theoretical Chemistry'. Enthusiastic hard worker and a beginner in programming. Hope to see you at a good position in life. Best Regards G. Jhaa",
+        "user": "Gaurav Jhaa, PHD Scholar at Pondicherry University, India (Mentor)"
+      },
+      {
         "text": "One of the most dedicated, disciplined and focused person, I have ever seen. He is a good student and a good teacher also. We have spent 3 years in our college and I have learned a lots of things about the computational and theoretical chemistry from him. He does the chemistry very well in both the field, theoretical and practical. He has a keen focused mindset to be a theoretician. On the other hand he has a very strong knowledge in computational algorithms. I will sincerely recommend him to in the field of theoretical chemical research.",
-        "user": "Tarak Nath Das, JNCASR(India)"
+        "user": "Tarak Nath Das, Jawaharlal Nehru Centre for Advanced Scientific Research, India (Worked in same group)"
+      },
+      {
+        "text": "He is one of the most disciplined, hardworking and dedicated persons I have ever come across. He has very keen interest in the field of computational chemistry and for that he even started learning different type of programming and coding languages from scratches and within few months he has become quite adept in this field. His perseverance is on different level. I have learnt and have been learning different qualities constantly since I have met him.",
+        "user": "Abhijit Chail, Pondicherry University, India (Worked in same group)"
       }
     ]
   }

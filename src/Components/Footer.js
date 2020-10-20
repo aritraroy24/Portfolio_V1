@@ -30,9 +30,7 @@ class Footer extends Component {
           </div>
           <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
         </div>
-        {/* <!-- Start of WebFreeCounter Code --> */}
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gefnkad&nd=3&style=16" border="0" alt="free counter" /></a>
-{/* <!-- End of WebFreeCounter Code --> */}
+        <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gfpcxo&nd=5&style=15" border="0" alt="free counter" /></a>
       </footer>
     );
   }
