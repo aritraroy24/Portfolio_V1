@@ -18,6 +18,7 @@
    * HTML5
    * CSS
    * React
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ba0ff94-b1c7-4a66-a7b2-3ffe6d629a29/deploy-status)](https://app.netlify.com/sites/aritraroy24/deploys)
 -----
 #### Credit :pray: :pray: :pray:
 Modified the template provided by [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/) :point_left:
