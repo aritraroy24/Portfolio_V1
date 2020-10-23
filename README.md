@@ -12,14 +12,13 @@
    
 ## Live Demo :point_down:
 ### [aritraroy24.netlify.app](https://aritraroy24.netlify.app/)
-![](https://s8.gifyu.com/images/ezgif.com-gif-maker7ec22d354645fe6b.gif)](https://gifyu.com/image/88h5)
+[![](https://s8.gifyu.com/images/ezgif.com-gif-maker7ec22d354645fe6b.gif)](https://gifyu.com/image/88h5)
 ----
 ### Used Technologies :
    * HTML5
    * CSS
    * React
 -----
-[![](https://s8.gifyu.com/images/ezgif.com-gif-maker7ec22d354645fe6b.gif)](https://gifyu.com/image/88h5)
 #### Credit :pray: :pray: :pray:
 Modified the template provided by [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/) :point_left:
 </br>
