@@ -12,6 +12,7 @@
    
 ## Live Demo :point_down:
 ### [aritraroy24.netlify.app](https://aritraroy24.netlify.app/)
+![](https://gifyu.com/image/88h5)
 ----
 ### Used Technologies :
    * HTML5
