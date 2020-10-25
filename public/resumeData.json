@@ -16,33 +16,44 @@
       "state": "West Bengal, India",
       "zip": "Pin - 741302"
     },
-    "website": "https://drive.google.com/file/d/1NKCLkN-CKWPp0-buYJIRcy3jSUpFIgaG/view?usp=sharing",
-    "resumedownload": "https://drive.google.com/file/d/1NKCLkN-CKWPp0-buYJIRcy3jSUpFIgaG/view?usp=sharing",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1Js1YH2eDX-QRlMyBNUBiraix8iuVCBMV/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/aritraroy24/",
-        "className": "fa fa-linkedin"
+        "className": "fa fa-linkedin",
+        "title": "LinkedIn"
       },
       {
         "name": "medium",
         "url": "https://medium.com/@aritraroycoc",
-        "className": "fa fa-medium"
+        "className": "fa fa-medium",
+        "title": "Medium"
       },
       {
         "name": "github",
         "url": "http://github.com/aritraroy24",
-        "className": "fa fa-github"
+        "className": "fa fa-github",
+        "title": "GitHub"
+      },
+      {
+        "name": "developer",
+        "url": "https://designerari.netlify.app/",
+        "className": "fa fa-globe-americas",
+        "title": "Developer Portfolio Website"
       },
       {
         "name": "twitter",
         "url": "https://twitter.com/Aritraroy24Roy",
-        "className": "fa fa-twitter"
+        "className": "fa fa-twitter",
+        "title": "Twitter"
       },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/aritraroy24/",
-        "className": "fa fa-facebook"
+        "className": "fa fa-facebook",
+        "title": "Facebook"
       }
     ]
   },
