@@ -22,11 +22,11 @@ export default class MyForm extends React.Component {
                      <fieldset>
                         <div>
                            <label>Name <span className="required">*</span></label>
-                           <input type="text" defaultValue="" size="35" id="contactName" name="contactName" />
+                           <input type="text" autoComplete="none" defaultValue="" size="35" id="contactName" name="contactName" />
                         </div>
                         <div>
                            <label>Phone No <span className="required">*</span></label>
-                           <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" />
+                           <input type="text" autoComplete="none" defaultValue="" size="35" id="contactSubject" name="contactSubject" />
                         </div>
                         <div>
                            <label>Email <span className="required">*</span></label>

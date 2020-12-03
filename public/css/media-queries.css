@@ -48,6 +48,10 @@
    }
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
+   #orcidQR {
+      width: 15vw;
+      height: 15vw;
+   }
 
    /* Resume Section
    ------------------------------------------------------------------- */
@@ -215,6 +219,10 @@
       padding: 15px 20px;
    }
    #about .main-col { padding-right: 30px; }
+   #orcidQR {
+      width: 20vw;
+      height: 20vw;
+   }
 
 
    /* Resume Section
@@ -367,6 +375,13 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+
+  /* About Section
+   ------------------------------------------------------------------------ */
+   #orcidQR {
+      width: 25vw;
+      height: 25vw;
+   }
 
    /* contact
    ------------------------------------------------------------------------ */

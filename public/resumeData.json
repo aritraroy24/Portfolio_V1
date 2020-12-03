@@ -10,6 +10,7 @@
     "email": "Email Id : aritraroy24@gmail.com",
     "phone": "Phone No : +91 98512 57150",
     "site": "Website : aritraroy24.netlify.app",
+    "orcid": "ORCID iD: 0000-0003-0243-9124",
     "address": {
       "street": "512, Pirtala, Poramatala Road,",
       "city": "Nabadwip, Nadia",
@@ -17,7 +18,8 @@
       "zip": "Pin - 741302"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1Js1YH2eDX-QRlMyBNUBiraix8iuVCBMV/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1bSwDkpSi5rxANhsuIvboLpRZpJigEY5h/view?usp=sharing",
+    "orcidqr": "ORCID.png",
     "social": [
       {
         "name": "linkedin",
@@ -88,14 +90,16 @@
     "work": [
       {
         "company": "Computation Chemistry Field",
-        "title": "Team Member && React Specialist",
+        "title": "Theoretical Chemist",
         "years": "April 2020 - Present",
-        "description1": "Have some knowledge of Spartan, Gaussian, GaussView and Cacao Software of Computational Chemistry.",
-        "description2": "Studied about Basis Set, PES (Potential Energy Surface), Semi-emperical Method and DFT."
+        "description1": "Have knowledge of Spartan, Gaussian, GaussView and CACAO Software of Computational Chemistry.",
+        "description2": "Studied about Basis Set, PES (Potential Energy Surface), Semi-emperical Method and DFT.",
+        "description3": "Completed a course on - 'Nanotechnology and Nanosensors, Part1' on Coursera.",
+        "description4": "Completed a course on - 'Fundamentals of Macroscopic and Microscopic Thermodynamics' on Coursera."
       },
       {
         "company": "Computer Science Field",
-        "title": "Software Engineer",
+        "title": "Web Application Developer",
         "years": "Nov 2019 - April 2020",
         "description1": "Completed Java Programming under WB Govt. (Regd. No. - S/IL/47623) with Grade: B (80%-90%) on 20/12/2019.",
         "description2": "Completed C Programming under WB Govt. (Regd. No. - S/IL/47623) with Grade: B (80%-90%) on 20/12/2019.",
@@ -105,12 +109,16 @@
     ],
     "seminars": [
       {
-        "date": "BGC, Belgharia - December, 2017",
-        "description": "Science Academy's Lecture Workshop on Modern Trends in Chemistry and Physics"
+        "date": "NASI, Online - October, 2020",
+        "description": "A Voyage through time: Dynamics at molecular length and time scales"
       },
       {
-        "date": "RKMVCC, Rahara - July, 2017",
-        "description": "Trends In Surface Science And Related Areas"
+        "date": "RSC, Online - September, 2020",
+        "description": "International Virtual Symposium On Advances In Chemical Sciences"
+      },
+      {
+        "date": "BGC, Belgharia - December, 2017",
+        "description": "Science Academy's Lecture Workshop on Modern Trends in Chemistry and Physics"
       },
       {
         "date": "RKMVCC, Rahara - November, 2016",
@@ -154,7 +162,13 @@
   },
   "blog": {
     "blogs": [
-      
+      {
+        "title": "Spartan Tool (Part-3)",
+        "category": "Basic Introduction to Computational Chemistry Tools: Spartan (Part-2)",
+        "image": "spartan_part3.png",
+        "url": "https://medium.com/chempute/basic-introduction-to-computational-chemistry-tools-spartan-part-3-7a053c8aa292",
+        "date": "November 20, 2020"
+      },
       {
         "title": "Spartan Tool (Part-2)",
         "category": "Basic Introduction to Computational Chemistry Tools: Spartan (Part-2)",

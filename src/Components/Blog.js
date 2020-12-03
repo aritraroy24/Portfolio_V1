@@ -17,7 +17,7 @@ class Blog extends Component {
                 </div>
               </div>
               <div className="link-icon"><i className="fa fa-link"></i>
-                <div className="date">{blogs.date}</div>
+                <div className="blogdate">{blogs.date}</div>
               </div>
             </a>
           </div>
