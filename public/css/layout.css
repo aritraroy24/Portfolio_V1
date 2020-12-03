@@ -518,6 +518,11 @@ ul#nav li.current a { color: #F06000; }
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
 }
+.date {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
 
 /* popup modal */
 .popup-modal {

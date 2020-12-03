@@ -154,17 +154,27 @@
   },
   "blog": {
     "blogs": [
+      
       {
-        "title": "Spartan Software",
-        "category": "Basic Introduction to Computational Chemistry Tools: Spartan (Part-1)",
-        "image": "spartan_part1.png",
-        "url": "https://medium.com/chempute/basic-introduction-to-computational-chemistry-tools-spartan-part-1-f1ffdb5dabef"
+        "title": "Spartan Tool (Part-2)",
+        "category": "Basic Introduction to Computational Chemistry Tools: Spartan (Part-2)",
+        "image": "spartan_part2.png",
+        "url": "https://medium.com/chempute/basic-introduction-to-computational-chemistry-tools-spartan-part-2-135e22afcd9a",
+        "date": "October 29, 2020"
       },
       {
         "title": "PES and Saddle Point",
         "category": "Introduction To Computational Chemistry Calculations: PES and Saddle Point",
         "image": "PES_SaddlePoint.png",
-        "url": "https://medium.com/chempute/introduction-to-computational-chemistry-calculations-pes-and-saddle-point-22389fc362f0"
+        "url": "https://medium.com/chempute/introduction-to-computational-chemistry-calculations-pes-and-saddle-point-22389fc362f0",
+        "date": "October 12, 2020"
+      },
+      {
+        "title": "Spartan Tool (Part-1)",
+        "category": "Basic Introduction to Computational Chemistry Tools: Spartan (Part-1)",
+        "image": "spartan_part1.png",
+        "url": "https://medium.com/chempute/basic-introduction-to-computational-chemistry-tools-spartan-part-1-f1ffdb5dabef",
+        "date": "October 08, 2020"
       }
     ]
   },
