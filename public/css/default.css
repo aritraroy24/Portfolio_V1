@@ -142,6 +142,7 @@ html {
 }
 
 body {
+   overflow-x: hidden;
    background: #fff;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;

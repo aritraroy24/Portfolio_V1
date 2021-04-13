@@ -295,7 +295,11 @@
    /* contact Section
    ----------------------------------------------------------------------- */
    #contact { padding-bottom: 66px; }
-   #contact .section-head { margin-bottom: 12px; }
+   #contact .section-head { 
+      margin-bottom: 12px;
+      /* width: 100vw !important; */
+      max-width: 101% !important; 
+   }
    #contact .section-head h1 {
       font: 16px/24px 'opensans-bold', sans-serif;            
       text-align: center;   
@@ -406,3 +410,17 @@
 
 
 
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 520px) {
+
+   #contact .section-head {
+
+   }
+  }
