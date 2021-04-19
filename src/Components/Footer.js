@@ -19,7 +19,7 @@ class Footer extends Component {
             </ul>
 
             <ul>
-              <li>Made with ❤️ by Aritra Roy</li>
+              <li>Made with ❤️ by <span id="footer_name">Aritra Roy</span></li>
             </ul>
 
             <ul className="copyright">

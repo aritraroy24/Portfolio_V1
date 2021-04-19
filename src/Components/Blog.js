@@ -32,7 +32,7 @@ class Blog extends Component {
 
           <div className="twelve columns collapsed">
 
-            <h1>Read My Latest Blogs on Medium</h1>
+            <h1>Read My Blogs on Medium</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {blogs}

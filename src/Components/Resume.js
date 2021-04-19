@@ -18,6 +18,7 @@ class Resume extends Component {
           <p>{work.description2}</p>
           <p>{work.description3}</p>
           <p>{work.description4}</p>
+          <p>{work.description5}</p>
         </div>
       })
       var seminars = this.props.data.seminars.map(function (seminars) {
