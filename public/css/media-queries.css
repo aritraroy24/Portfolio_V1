@@ -37,6 +37,9 @@
       font: 11px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
+   #BuyCoffee {
+      width: 240px;
+   }
 
 
    /* About Section
@@ -207,7 +210,11 @@
    header .social li { margin: 0 10px; }
 
     /* scrolldown link */
-   header .scrolldown { display: none; }
+   header .scrolldown { display: none; } }
+
+   #BuyCoffee {
+      width: 215px;
+   }
 
 
    /* About Section

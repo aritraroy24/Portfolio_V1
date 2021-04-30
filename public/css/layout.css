@@ -114,6 +114,10 @@ header .scrolldown a {
 }
 header .scrolldown a:hover { color: #11ABB0; }
 
+#BuyCoffee {
+   width: 270px;
+}
+
 /* primary navigation
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
