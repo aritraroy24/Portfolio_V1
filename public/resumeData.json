@@ -5,7 +5,7 @@
     "place": "Pondicherry University, India",
     "description": "",
     "image": "aritra.jpg",
-    "bio": "My name is Aritra. I'm studying M.Sc. Chemistry in Pondicherry University, one of the gretest Central University in India. I love studying reasearch articles and implementing those concepts in my work. Also, I love teaching, whether it is junior or fellow-student. My goal is to become a professor and to engage students in chemistry by relating as much as possible to everyday life through questioning and experiential way.",
+    "bio": "Hi...Aritra here. I'm studying M.Sc. Chemistry in Pondicherry Central University, India. I'm mainly interested in Chemical Information Science (mainly known as Computational Chemistry) & Bonding Analysis. I love studying reasearch articles and implementing those concepts in my work. Also, I love teaching, whether it is junior or fellow-student. It is lovely to engage people around me in chemistry by relating as much as possible to everyday life through questioning and experiential way. Also, I'm seeking to learn new part of theoretical studies like Molecular Docking, Virtual Screening, MD Simulation etc.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "Email Id : aritraroy24@gmail.com",
     "phone": "Phone No : +91 98512 57150",
@@ -18,15 +18,9 @@
       "zip": "Pin - 741302"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1Sw-qPhYPRTcL7Uau9wUYF8DtKWRj1M0N/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1JkoKWqVkSV9wCyd45ILi27va1fsVRkGD/view?usp=sharing",
     "orcidqr": "ORCID.png",
     "social": [
-      {
-        "name": "researchgate",
-        "url": "https://www.researchgate.net/profile/Aritra-Roy-5",
-        "className": "fab fa-researchgate",
-        "title": "ResearchGate"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/aritraroy24/",
@@ -36,7 +30,7 @@
       {
         "name": "medium",
         "url": "https://medium.com/@aritraroy24",
-        "className": "fa fa-medium",
+        "className": "fab fa-medium-m",
         "title": "Medium"
       },
       {

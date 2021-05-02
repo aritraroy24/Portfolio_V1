@@ -90,7 +90,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #F06000; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -112,7 +112,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #F06000; }
 
 #BuyCoffee {
    width: 270px;
@@ -143,6 +143,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
+
 
 ul#nav {
    min-height: 48px;
@@ -193,7 +194,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -254,7 +255,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #F06000; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -263,7 +264,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #F06000;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -829,7 +830,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #F06000; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -890,7 +891,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #F06000;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -909,7 +910,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #F06000;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -1043,4 +1044,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #F06000; }

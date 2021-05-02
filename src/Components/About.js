@@ -40,17 +40,17 @@ class About extends Component {
                            <span>{phone}</span><br />
                            <span>{email}</span><br />
                            <span>{site}</span><br />
-                           <span>{orcidID}</span>
+                           {/* <span>{orcidID}</span> */}
                         </p>
                      </div>
                      <div className="columns download">
                         <p>
                            <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-download"></i>Download CV</a>
                         </p>
-                        <div className="orcidSection">
+                        {/* <div className="orcidSection">
                            <img id="orcidQR" src={orcidQR} alt="ORCID QR" />
                            <p>ORCID iD QR Code</p>
-                        </div>
+                        </div> */}
                      </div>
                   </div>
                </div>
