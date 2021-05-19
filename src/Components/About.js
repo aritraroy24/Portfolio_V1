@@ -40,17 +40,19 @@ class About extends Component {
                            <span>{phone}</span><br />
                            <span>{email}</span><br />
                            <span>{site}</span><br />
-                           {/* <span>{orcidID}</span> */}
+                           {/* ORCID id is changed by Lintree username, but attributes are kept same */}
+                           <span>{orcidID}</span>
                         </p>
                      </div>
                      <div className="columns download">
                         <p>
                            <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-download"></i>Download CV</a>
                         </p>
-                        {/* <div className="orcidSection">
+                        {/* ORCID QR is changed by Lintree QR, but attributes are kept same */}
+                        <div className="orcidSection">
                            <img id="orcidQR" src={orcidQR} alt="ORCID QR" />
-                           <p>ORCID iD QR Code</p>
-                        </div> */}
+                           <p>Linktree Page QR Code</p>
+                        </div>
                      </div>
                   </div>
                </div>

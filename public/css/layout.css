@@ -239,10 +239,6 @@ ul#nav li.current a { color: #F06000; }
    justify-content: center;
    align-items: center;
 }
-#orcidQR {
-   height: 10vw;
-}
-
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -828,7 +824,10 @@ call-to-action .button {
    padding-bottom: 102px;
    color: #636363;
 }
-#contact .section-head { margin-bottom: 42px; }
+#contact .section-head { 
+   margin-bottom: 42px; 
+   display: flex;
+}
 
 #contact a, #contact a:visited  { color: #F06000; }
 #contact a:hover, #contact a:focus { color: #fff; }

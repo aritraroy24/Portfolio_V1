@@ -9,7 +9,7 @@
       font: 80px/1.1em 'opensans-bold', sans-serif;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
-   }
+   } 
 
 }
 
@@ -52,8 +52,7 @@
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
    #orcidQR {
-      width: 15vw;
-      height: 15vw;
+      height: 100px;
    }
 
    /* Resume Section
@@ -89,7 +88,7 @@
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
-
+   
 }
 
 /* mobile wide/smaller tablets
@@ -227,8 +226,7 @@
    }
    #about .main-col { padding-right: 30px; }
    #orcidQR {
-      width: 20vw;
-      height: 20vw;
+      height: 120px;
    }
 
 
@@ -359,10 +357,11 @@
    	height: 54px;
       font-size: 18px;
       line-height: 54px;
-   }
-
 
 }
+
+
+
 
 /* mobile narrow
   -------------------------------------------------------------------------- */
@@ -392,8 +391,7 @@
   /* About Section
    ------------------------------------------------------------------------ */
    #orcidQR {
-      width: 25vw;
-      height: 25vw;
+      height: 100px;
    }
 
    /* contact
