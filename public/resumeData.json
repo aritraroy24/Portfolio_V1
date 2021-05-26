@@ -167,6 +167,29 @@
       }
     ]
   },
+  "tech": {
+    "techprojects": [
+      {
+        "title": "CompChemNews Bot",
+        "category": "A Twitter Bot to tweet latest news on Computational Chemistry",
+        "image": "CompChemNewsBot.jpg",
+        "url": "https://twitter.com/CompChemNewsBot",
+        "duration": "1 Day"
+      },
+      {
+        "title": "JS Notebook",
+        "category": "A simple web application for taking notes made using JavaScript",
+        "image": "js_notes.png",
+        "url": "https://aritraroy24.github.io/JS_Note/"
+      },
+      {
+        "title": "Certificate Generator",
+        "category": "A simple web application for taking notes",
+        "image": "certificate_generator.jpg",
+        "url": "https://aritraroy24.github.io/Auto_Certificate_Generator/"
+      }
+    ]
+  },
   "blog": {
     "blogs": [
       {
