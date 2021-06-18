@@ -1161,10 +1161,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@iconify-icons/simple-icons@1.1.26":
-  version "1.1.26"
-  resolved "https://registry.npmjs.org/@iconify-icons/simple-icons/-/simple-icons-1.1.26.tgz"
-  integrity sha512-QU0O1VSlAX+ElAPvx2hkn9Ljsf1Y2F4XL7fW26+8TFOyiPJdgYSH0WqVr/ste1Ll5iC8bEzLimKz1rE2nTZ0WA==
+"@iconify-icons/simple-icons@1.1.29":
+  version "1.1.29"
+  resolved "https://registry.npmjs.org/@iconify-icons/simple-icons/-/simple-icons-1.1.29.tgz"
+  integrity sha512-j1axZfKfNWC5ua5MovKyflrMu3LAD0yaknqcV/9MJVVcSofPEyYTmBsBtSTOkq1QhbuUqbCNqHjUJsDlJCN2cw==
 
 "@iconify/react@1.1.4":
   version "1.1.4"
