@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Aritra Roy",
-    "occupation": "M.Sc. Chemistry Student",
+    "occupation": "M.Sc. Chemistry",
     "place": "Pondicherry University, India",
     "description": "",
     "image": "aritra.jpg",
-    "bio": "Hi...Aritra here. I'm studying M.Sc. Chemistry in Pondicherry Central University, India. I'm mainly interested in Chemical Information Science (mainly known as Computational Chemistry) & Bonding Analysis. I love studying reasearch articles and implementing those concepts in my work. Also, I love teaching, whether it is junior or fellow-student. It is lovely to engage people around me in chemistry by relating as much as possible to everyday life through questioning and experiential way. Also, I'm seeking to learn new part of theoretical studies like Molecular Docking, Virtual Screening, MD Simulation etc.",
+    "bio": "Hi...Aritra here. I've just completed my M.Sc. Chemistry degree from Pondicherry Central University, India. I'm mainly interested in Chemical Information Science (mainly known as Computational Chemistry) & Bonding Analysis. I love studying reasearch articles and implementing those concepts in my work. Also, I love teaching, whether it is junior or fellow-student. It is lovely to engage people around me in chemistry by relating as much as possible to everyday life through questioning and experiential way. Also, I'm seeking to learn new part of theoretical studies like Molecular Docking, Virtual Screening, MD Simulation etc.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "Email Id : aritraroy24@gmail.com",
     "phone": "Phone No : +91 98512 57150",
@@ -71,8 +71,8 @@
       {
         "school": "Pondicherry University",
         "degree": "M.Sc. in Chemistry",
-        "graduated": "Ongoing",
-        "description": "Will be completed by 2021 (8.65 CGPA upto 3rd Semester)"
+        "graduated": "Aug, 2021",
+        "description": "Completed with 8.88 CGPA"
       },
       {
         "school": "Ramakrishna Mission Centenary College, Rahara",
@@ -105,7 +105,7 @@
       },
       {
         "company": "Computer Science Field",
-        "title": "Web Application Developer",
+        "title": "Intermediate Programmer",
         "years": "Nov 2019 - April 2020",
         "description1": "Completed Python Programming under WB Govt. (Regd. No. - S/IL/47623) with Grade: A (90%-100%) on 21/12/2020.",
         "description2": "Completed Java Programming under WB Govt. (Regd. No. - S/IL/47623) with Grade: B (80%-90%) on 20/12/2019.",
@@ -154,16 +154,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Ni nanowire formation",
-        "category": "Ni Nanowire formation using a non-ionic surfactant and Hydrazine",
-        "image": "Ni_nanowire.jpeg",
-        "url": "#"
-      },
-      {
-        "title": "Fluorescent C Nps synthesis",
-        "category": "Blue, Green, Red and Yellow fluorescent C Nps synthesis using carbohydrates",
-        "image": "C_Nps.png",
-        "url": "#"
+        "title": "Finding a More Stable Semiconductor Borophene Using Theoretical Approach",
+        "category": "Computational Nanomaterials: M.Sc. Thesis Project",
+        "image": "Finding a More Stable Semiconductor Borophene Using the Theoretical Approach.jpg",
+        "url": "https://www.scribd.com/document/522631162/Finding-a-More-Stable-Semiconductor-Borophene-Using-the-Theoretical-Approach"
       }
     ]
   },

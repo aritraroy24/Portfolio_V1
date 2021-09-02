@@ -37,7 +37,7 @@ class Header extends Component {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">I'm {name}.</h1>
-                  <h3>I'm a <span>{occupation}</span> at <span>{place}</span>. {description}</h3>
+                  <h3>Recently Completed <span>{occupation}</span> at <span>{place}</span>. {description}</h3>
                   <hr />
                   <ul className="social">                     
                      <li><a target="_blank" title="ORCID" href="https://orcid.org/0000-0003-0243-9124"><i class="ai ai-orcid"></i></a></li>
