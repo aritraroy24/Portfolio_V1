@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/github-fff7f8?colorA=080808&colorB=8a8a8a&style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/made_with-❤️-bee5ed?colorA=f5e856&colorB=ffa526&style=for-the-badge)
 ![](https://img.shields.io/badge/visual_studio_code-1.49.0-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
-# Academic Portfolio &nbsp;&nbsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/1ba0ff94-b1c7-4a66-a7b2-3ffe6d629a29/deploy-status)](https://app.netlify.com/sites/aritraroy24/deploys)
+# Academic Portfolio &nbsp;&nbsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/c4a2f28a-ac93-420f-9264-668dd6721974/deploy-status)](https://app.netlify.com/sites/aritraoldportfolio/deploys)
 ----
 ## Description :memo:
    * This is a ReactJS based personal resume website for academic purpose.
@@ -11,8 +11,7 @@
    * The contact form works perfectly to get a mail in your inbox. I've taken the help of [Formspree](https://formspree.io/account/) site to validate and functionalize my form.
    
 ## Live Demo :point_down:
-### [aritraroy24.netlify.app](https://aritraroy24.netlify.app/)
-[![](https://s8.gifyu.com/images/ezgif.com-gif-maker7ec22d354645fe6b.gif)](https://gifyu.com/image/88h5)
+### [aritraoldportfolio.netlify.app](https://aritraoldportfolio.netlify.app/)
 ----
 ### Used Technologies :
    * HTML5
