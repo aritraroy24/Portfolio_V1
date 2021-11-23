@@ -8,7 +8,7 @@
 ## Description :memo:
    * This is a ReactJS based personal resume website for academic purpose.
    * It is a fully responsive website.
-   * The contact form works perfectly to get a mail in your inbox. I've taken the help of [Formspree](https://formspree.io/account/) site to validate and functionalize my form.
+   * The contact form works perfectly to get a mail in your inbox. I've taken the help of [Formspree](https://formspree.io/account/) site to validate and functionalize my form. [Code is fine, but I have turned off this form as I have another version of portfolio website]
    
 ## Live Demo :point_down:
 ### [aritraoldportfolio.netlify.app](https://aritraoldportfolio.netlify.app/)
