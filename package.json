@@ -30,7 +30,7 @@
     ]
   },
   "devDependencies": {
-    "@iconify-icons/simple-icons": "1.2.4",
+    "@iconify-icons/simple-icons": "1.2.14",
     "@iconify/react": "3.2.1"
   }
 }
